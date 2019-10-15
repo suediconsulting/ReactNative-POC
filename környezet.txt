@@ -1,1 +1,16 @@
 Jelenlegi környezet
+OS: Windows 10
+
+Szükséges komponensek:
+- Node
+- npm
+- git
+- Expo (React native dev tools/platform)
+- Expo for mobile
+
+Emulátor:
+- Gennymotion (megfelelő processor illetve bios beállítás szükséges)
+
+IDE:
+- VS Code
+
