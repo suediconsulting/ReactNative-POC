@@ -2,15 +2,26 @@ Jelenlegi környezet
 OS: Windows 10
 
 Szükséges komponensek:
-- Node
+- Node 
 - npm
 - git
 - Expo (React native dev tools/platform)
 - Expo for mobile
 
 Emulátor:
-- Gennymotion (megfelelő processor illetve bios beállítás szükséges)
+- Gennymotion (megfelelő processor illetve bios beállítás szükséges) -nem biztos, hogy kell
+- Virtual box -nem biztos, hogy kell
+- Android studio + sdk tools
+- Legújabb ADB
+- Grafikus kártya
+- BIOS Intel VT
+
+Leírás: Android Studio -> Open a létrehozott React projekt -> AVD Manager -> Létrehozod az emulátort
+-> Indítod -> VS Code terminál expo start -> felöleten Android device kiválasztva, develope mode-ban.
 
 IDE:
 - VS Code
+
+PATH:
+- Nekem elég sokmindent (node, npm, git, android sdk, gennymotion...) kellett kézzel megadnom
 
